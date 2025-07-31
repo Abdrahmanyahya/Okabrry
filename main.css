@@ -1,7 +1,9 @@
 .maincolor{
 color: #5ea51d;
 }
-
+body {
+  overflow-x: hidden;
+}
 .mainbg{
     background-color: #5ea51d;
 }
