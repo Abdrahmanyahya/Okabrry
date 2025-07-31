@@ -1,8 +1,9 @@
 .maincolor{
 color: #5ea51d;
 }
-body {
+:root {
   overflow-x: hidden;
+
 }
 .mainbg{
     background-color: #5ea51d;
@@ -19,6 +20,7 @@ body {
 }
 .Nav1{
   width: 100%;
+  overflow-x: hidden;
 }
 .Nav1 a{
     color:#7f8085;
