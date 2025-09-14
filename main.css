@@ -5,22 +5,71 @@ color: #5ea51d;
   overflow-x: hidden;
 
 }
+li{
+    list-style: none;
+}
+
 .mainbg{
     background-color: #5ea51d;
 }
 .backgp_var1{
     background-color: #06112a;
     width: 100%;
+    
+    
 }
+.nav-basic{
+    background-color: #786a63;
+    width: 99.1%;
+    
+}
+.backscroll{
+    background-color: darkblue;
+}
+.backscroll2{
+    background-color: #06112a;
+}
+
+.backscroll3{
+    background-color:darkmagenta;
+}
+.backscroll4{
+    background-color:darkslategrey;
+}
+
+
+.backscroll5{
+    background-color:brown;
+}
+.backscroll6{
+    background-color:darkslategrey;
+}
+
 .textcolor_green{
     color: #366f22;
 }
 .textcolor_span{
     color: #7f8085;
 }
+.yourProperty{
+    top: 150px;
+    left:500px;
+}
+.LearnMore{
+    top: 250px;
+        left:500px;
+
+}
+.LLARN{
+    top: 60px;
+    left: 230px;
+}
 .Nav1{
   width: 100%;
   overflow-x: hidden;
+  position:sticky;
+  top: 0px;
+  z-index:1000 ;
 }
 .Nav1 a{
     color:#7f8085;
@@ -109,7 +158,7 @@ height: 30px;
     background-color: #5ea51d;
 }
 .btnlearn{
-    width: 175px;
+    width: 120px;
     height: 50px;
 }
 .arrowsize{
@@ -200,6 +249,9 @@ select{
      width: 220px;
     height: 110px;
     background-color: #5ea51d;
+}
+.catogries{
+    padding: 300px 0 0 0 ;
 }
 .catogries h1{
     line-height: 1.2;
@@ -543,6 +595,7 @@ height: 20px;
     height: 900px;
 
 }
+
 .aboutpara{
 color: #a39f9f;
 }
@@ -737,8 +790,8 @@ width: 400%;
 
 
 .Priorityaboutpage{
-    left: 200px;
-    top: 100px;
+    left: 500px;
+    top: -350px;
 }
 .about_w{
     width: 200%;
